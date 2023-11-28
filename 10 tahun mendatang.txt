@@ -7,6 +7,7 @@ target 10 tahun mendatang
 - menambah relasi
 - masuk industri it
  *go-jek
+ *shopee
 - gaji 2 digit
 - menikah
 - punya rumah
