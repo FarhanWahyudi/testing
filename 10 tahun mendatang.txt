@@ -3,6 +3,7 @@ target 10 tahun mendatang
   *jakarta
   *tanggerang
   *surabaya
+- menambah relasi
 - masuk industri it
 - gaji 2 digit
 - menikah
