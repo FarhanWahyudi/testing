@@ -3,7 +3,10 @@ target 10 tahun mendatang
   *jakarta
   *tanggerang
   *surabaya
+  *malang
 - menambah relasi
 - masuk industri it
+ *go-jek
 - gaji 2 digit
 - menikah
+- punya rumah
